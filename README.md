@@ -3,8 +3,8 @@
 
 Assignment  | Language | Description
 ------------- | ------------- | ------------- 
-[HW1](https://github.com/mbulucay/CSE-102-Computer-Programming-Course/tree/master/HW1)  | C | __Part 1:__  Finding quadratic root __Part2:__ Find root of an equation using Newtonian root __Part3:__ Find closest divisible integer
-[HW2](https://github.com/mbulucay/CSE-102-Computer-Programming-Course/tree/master/HW2)  | C | __Part 1:__ is Draw triangle , finding type of triangle,perimeter,area of triangle __Part2:__ Number length and finding value at digit __Part3:__ Currency exchange
+[HW1](https://github.com/AhmetUsluoglu/CSE102-C-Programming-Course/tree/main/HW1)  | C | __Part 1:__  Finding quadratic root __Part2:__ Find root of an equation using Newtonian root __Part3:__ Find closest divisible integer
+[HW2](https://github.com/AhmetUsluoglu/CSE102-C-Programming-Course/tree/main/HW2)  | C | __Part 1:__ is Draw triangle , finding type of triangle,perimeter,area of triangle __Part2:__ Number length and finding value at digit __Part3:__ Currency exchange
 [HW3](https://github.com/mbulucay/CSE-102-Computer-Programming-Course/tree/master/HW3)  | C |  __Part 1:__  Calculate Sum/Multiplication of odd/even number __Part2:__ Find all prime and non prime of divison number until getting number __Part3:__ Logical AND operation of two numbers
 [HW4](https://github.com/mbulucay/CSE-102-Computer-Programming-Course/tree/master/HW4)  | C | Finding secret message of text. Decrypting, encrypting operations with mixed numbers given in txt file
 [HW5](https://github.com/mbulucay/CSE-102-Computer-Programming-Course/tree/master/HW5)  | C | Daily press of corona virus
